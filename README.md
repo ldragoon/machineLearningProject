@@ -11,3 +11,5 @@
 [TutorialsPoint - R](https://www.tutorialspoint.com/r/r_overview.htm)
 
 [Programmable Web - Agriculture APIS](https://www.programmableweb.com/category/agriculture/api)
+
+[Calculating Chill Hours](http://hortsci.ashspublications.org/content/25/1/14.full.pdf)
