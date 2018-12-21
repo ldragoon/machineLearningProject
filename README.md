@@ -10,3 +10,4 @@
 
 [TutorialsPoint - R](https://www.tutorialspoint.com/r/r_overview.htm)
 
+[Programmable Web - Agriculture APIS](https://www.programmableweb.com/category/agriculture/api)
