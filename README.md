@@ -1,4 +1,7 @@
 # machineLearningProject
+
+My process of teaching myself machine learning.  Documenting my progress.
+
 ## Resources Used
 [Anaconda](https://www.anaconda.com/)
 
