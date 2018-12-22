@@ -2,6 +2,9 @@
 
 My process of teaching myself machine learning.  Documenting my progress.
 
+## Inspiration
+[Calculating Chill Hours](http://hortsci.ashspublications.org/content/25/1/14.full.pdf)
+
 ## Resources Used
 [Anaconda](https://www.anaconda.com/)
 
@@ -14,5 +17,3 @@ My process of teaching myself machine learning.  Documenting my progress.
 [TutorialsPoint - R](https://www.tutorialspoint.com/r/r_overview.htm)
 
 [Programmable Web - Agriculture APIS](https://www.programmableweb.com/category/agriculture/api)
-
-[Calculating Chill Hours](http://hortsci.ashspublications.org/content/25/1/14.full.pdf)
