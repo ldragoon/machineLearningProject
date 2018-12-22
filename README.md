@@ -16,7 +16,8 @@ My process of teaching myself machine learning.  Documenting my progress.
 
 [Machine Learning for Dummies](https://www.dummies.com/store/product/Machine-Learning-For-Dummies.productCd-1119245516,navId-322468,descCd-description.html)
 
-### Online Tutorials <3
+### Online Tutorials
 [TutorialsPoint - R](https://www.tutorialspoint.com/r/r_overview.htm)
 
+### Awesome Resources
 [Programmable Web - Agriculture APIS](https://www.programmableweb.com/category/agriculture/api)
