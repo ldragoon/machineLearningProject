@@ -23,5 +23,7 @@ My on-going process of teaching myself machine learning.
 
 [But What IS a neural network?](https://www.youtube.com/watch?v=aircAruvnKk&t=396s)
 
+[Neural Networks and Deep Learning - FREE!](http://neuralnetworksanddeeplearning.com/)
+
 ### Awesome Resources
 [Programmable Web - Agriculture APIS](https://www.programmableweb.com/category/agriculture/api)
