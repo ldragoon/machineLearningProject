@@ -21,5 +21,7 @@ My on-going process of teaching myself machine learning.
 
 [Neural networks and deep learning](https://github.com/mnielsen/neural-networks-and-deep-learning)
 
+[But What IS a neural network?](https://www.youtube.com/watch?v=aircAruvnKk&t=396s)
+
 ### Awesome Resources
 [Programmable Web - Agriculture APIS](https://www.programmableweb.com/category/agriculture/api)
