@@ -19,5 +19,7 @@ My on-going process of teaching myself machine learning.
 ### Online Tutorials
 [TutorialsPoint - R](https://www.tutorialspoint.com/r/r_overview.htm)
 
+[Neural networks and deep learning](https://github.com/mnielsen/neural-networks-and-deep-learning)
+
 ### Awesome Resources
 [Programmable Web - Agriculture APIS](https://www.programmableweb.com/category/agriculture/api)
