@@ -2,6 +2,7 @@
 # https://www.r-bloggers.com/accessing-apis-from-r-and-a-little-r-programming/
 # https://datascienceplus.com/accessing-web-data-json-in-r-using-httr/
 # https://cran.r-project.org/web/packages/httr/vignettes/quickstart.html
+# http://zevross.com/blog/2015/02/12/using-r-to-download-and-parse-json-an-example-using-data-from-an-open-data-portal/
 # API => http://et.water.ca.gov/
 
 install.packages(c("httr", "jsonlite", "lubridate"))
@@ -17,7 +18,7 @@ options(stringsAsFactors = FALSE)
 # http://et.water.ca.gov/api/data?appKey=XXXXX&targets=95746&startDate=2018-12-01&endDate=2018-12-05
 # LIMITED TO CALIFORNIA ZIP CODES
 url     <- "http://et.water.ca.gov"
-apiKey  <- "XXXXXX"
+apiKey  <- "XXXXX"
 zipCode <- "95746"
 startDate <- "2018-12-01"
 endDate <- "2018-12-05"

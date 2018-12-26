@@ -21,3 +21,5 @@ My on-going process of teaching myself machine learning.
 
 ### Awesome Resources
 [Programmable Web - Agriculture APIS](https://www.programmableweb.com/category/agriculture/api)
+
+[R Package Documentation](https://rdrr.io/)
