@@ -16,8 +16,16 @@ My on-going process of teaching myself machine learning.
 
 [Machine Learning for Dummies](https://www.dummies.com/store/product/Machine-Learning-For-Dummies.productCd-1119245516,navId-322468,descCd-description.html)
 
+[Neural Networks and Deep Learning - FREE!](http://neuralnetworksanddeeplearning.com/)
+
 ### Online Tutorials
 [TutorialsPoint - R](https://www.tutorialspoint.com/r/r_overview.htm)
+
+[Neural networks and deep learning](https://github.com/mnielsen/neural-networks-and-deep-learning)
+
+### Videos
+
+[But What IS a neural network?](https://www.youtube.com/watch?v=aircAruvnKk&t=396s)
 
 ### Awesome Resources
 [Programmable Web - Agriculture APIS](https://www.programmableweb.com/category/agriculture/api)
