@@ -29,11 +29,14 @@ if (http_error(resp) == FALSE) {
   myMeta <- data.flat$meta
   myData <- data.flat$data
   
-  # myColumnList <- myMeta$view$columns$name
+  colnames(myData) <- myMeta$view$columns$name
+  
+  View(myData)
+
   # nrow(myData)
   # ncol(myData)
   
-  json_data_frame <- as.data.frame(myData)
-  print(json_data_frame)
+  #json_data_frame <- as.data.frame(myData)
+  #print(json_data_frame)
   
 }
