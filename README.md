@@ -15,6 +15,10 @@
 
 [Neural Networks and Deep Learning - FREE!](http://neuralnetworksanddeeplearning.com/)
 
+[Hands-On Programming with R](https://rstudio-education.github.io/hopr/)
+
+[Functional Javascript](http://shop.oreilly.com/product/0636920028857.do)
+
 ### Online Tutorials
 [TutorialsPoint - R](https://www.tutorialspoint.com/r/r_overview.htm)
 
