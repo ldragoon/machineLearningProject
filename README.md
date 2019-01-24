@@ -28,6 +28,8 @@
 
 [TensorFlow](https://www.tensorflow.org/tutorials)
 
+[Amazon AWS Machine Learning](https://aws.amazon.com/training/learning-paths/machine-learning/)
+
 ### Videos
 
 [But What IS a neural network?](https://www.youtube.com/watch?v=aircAruvnKk&t=396s)
