@@ -1,7 +1,4 @@
 # machineLearningProject
-
-My on-going process of teaching myself machine learning.
-
 ## Inspiration
 [Calculating Chill Hours](http://hortsci.ashspublications.org/content/25/1/14.full.pdf)
 
