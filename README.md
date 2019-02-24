@@ -21,6 +21,8 @@
 
 [Functional Javascript](http://shop.oreilly.com/product/0636920028857.do)
 
+[Robin LoveLace - Geocomputation with R](https://geocompr.robinlovelace.net/index.html)
+
 ### Online Tutorials
 [TutorialsPoint - R](https://www.tutorialspoint.com/r/r_overview.htm)
 
