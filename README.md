@@ -39,4 +39,8 @@
 ### Awesome Resources
 [Programmable Web - Agriculture APIS](https://www.programmableweb.com/category/agriculture/api)
 
+[List of Public APIs](ushhttps://github.com/toddmotto/public-apis)
+
+[fireData: Connecting R to Google Firebase](https://github.com/Kohze/fireData)
+
 [R Package Documentation](https://rdrr.io/)
