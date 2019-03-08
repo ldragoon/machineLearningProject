@@ -43,3 +43,5 @@
 [Programmable Web - Agriculture APIS](https://www.programmableweb.com/category/agriculture/api)
 
 [R Package Documentation](https://rdrr.io/)
+
+[List of More Public APIs](https://github.com/toddmotto/public-apis)
