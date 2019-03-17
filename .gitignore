@@ -1,2 +1,7 @@
+.git
 .settings/
 R/appKey.txt
+.Rproj.user
+.RData
+.Rhistory
+column_multiplication.r
