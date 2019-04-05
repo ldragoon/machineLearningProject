@@ -29,6 +29,7 @@ startdate	<- format(as.Date(Sys.time()) - 1, "%Y-%m-%dT%H:%M:%S-08:00")
 enddate		<- format(Sys.time(), "%Y-%m-%dT%H:%M:%S-08:00")
 
 path <- paste("stationdata/", interval, "/", stationID, "/", startdate, "/", enddate, sep = "")
+print(path)
 
 result <- GET(url = url, path = path, add_headers(Authorization = apiKey))
 status_code(result)
