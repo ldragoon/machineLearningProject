@@ -26,6 +26,8 @@
 
 [Robin LoveLace - Geocomputation with R](https://geocompr.robinlovelace.net/index.html)
 
+[An Introduction to Machine Learning in R](http://web.ipac.caltech.edu/staff/fmasci/home/astro_refs/ML_inR.pdf)
+
 ### Online Tutorials
 [TutorialsPoint - R](https://www.tutorialspoint.com/r/r_overview.htm)
 
